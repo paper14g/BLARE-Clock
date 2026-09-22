@@ -9,5 +9,6 @@ this my schematic
 
 <img width="1088" height="606" alt="image" src="https://github.com/user-attachments/assets/43cf0955-771b-4036-8c1a-47e78c7710f3" />
  this my PCB
-
+<img width="689" height="476" alt="image" src="https://github.com/user-attachments/assets/cdedcff7-93b0-41a6-9283-71f0e1eaacf8" />
+the pcb goes inside the case and the screen fits into a slot
  

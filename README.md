@@ -1,6 +1,6 @@
 # BLARE-Clock
 I try to learn about making stuff with KiCad
-<img width="643" height="577" alt="image" src="https://github.com/user-attachments/assets/184418a3-7b57-4d0a-9657-158fa5a7e415" />
+<img width="320" height="289" alt="image" src="https://github.com/user-attachments/assets/184418a3-7b57-4d0a-9657-158fa5a7e415" />
 this is CatClock, a clock that looks like a cat! except a screeching cat that will wake you up. I used Onshape to do the CAD designing work and I used Arduino IDE in order to code the firmware for the clock that will tell the time. Since I don't have a physical kit at the time of this typing, I will hope that it works first try. CAD designing was tricky at first because I never used it before. It took about 6-7 hours total and It was definitely very tricky.
 
 <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/a856696c-cee6-47af-a177-839aa5a59593" />

@@ -12,7 +12,9 @@ This is my schematic, which shows an idea of how the parts are connected
 This is my PCB, which will be custom made to fit my clock
  
 <img width="345" height="238" alt="image" src="https://github.com/user-attachments/assets/cdedcff7-93b0-41a6-9283-71f0e1eaacf8" />
-As you can see, the PCB is held up by the supports inside the case and fit snugly in there with some screws to keep in place. The screen will also be inserted into a slot with a small hole behind it for connecting the the PCB
+As you can see, the PCB is held up by the supports inside the case and fit snugly in there with some screws to keep in place. The screen will also be inserted into a slot with a small hole behind it for connecting the the PCB.
+
+There was some AI usage to assist me with KiCad footprint troubleshooting, OnShape tools, and some of the coding since I am unfamiliar with the coding language.
  
 I believe the guide asks me to put my Bill Of Materials here, so it's just a copy and paste.
 

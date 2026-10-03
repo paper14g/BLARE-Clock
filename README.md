@@ -15,6 +15,8 @@ This is my PCB, which will be custom made to fit my clock
 As you can see, the PCB is held up by the supports inside the case and fit snugly in there with some screws to keep in place. The screen will also be inserted into a slot with a small hole behind it for connecting the the PCB.
 
 There was some AI usage to assist me with KiCad footprint troubleshooting, OnShape tools, and some of the coding since I am unfamiliar with the coding language.
+
+ONSHAPE LINK: https://cad.onshape.com/documents/35f3ca1c154542e0a4ea4d61/w/57b5bd0aad0669b366a0d6c3/e/0ef1ebbdd80ca3363562ccff?renderMode=0&uiState=6ac0b07b7f23611b255fec3d
  
 I believe the guide asks me to put my Bill Of Materials here, so it's just a copy and paste.
 
